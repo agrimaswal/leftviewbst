@@ -21,7 +21,9 @@ Output: 1 3
 
 ```
 
-![leftview](https://github.com/agrimaswal/leftviewbst/assets/124095607/2ef43a7a-0421-4373-9778-99a446ed4aa7)
+![image](https://github.com/agrimaswal/leftviewbst/assets/124095607/607952bc-2af0-402a-a795-9d56acec623d)
+
+
 Output: 10 20 40
 
 ```
